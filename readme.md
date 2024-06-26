@@ -5,45 +5,43 @@ Pour cela, il faudra :
 
 ## Gérer les articles en créant une classe Article
 
-- Un article est caractérisé par un Code, une Désignation, un Prix, une Catégorie et une Quantité en stock ;
-- Ajoutez le constructeur de la classe en initialisant tous les attributs de la classe avec des valeurs reçues en paramètres ;
-- Implémenter le principe de l’encapsulation pour tous les attributs d’instance de la classe ;
+- Un article est caractérisé par un Code, une Désignation, un Prix, une Catégorie et une Quantité en stock
+- Ajoutez le constructeur de la classe en initialisant tous les attributs de la classe avec des valeurs reçues en paramètres
+- Implémenter le principe de l’encapsulation pour tous les attributs d’instance de la classe
 - Implémentez les méthodes suivantes :
 
     . afficher() permettant d’afficher toutes les informations d’un article
-    . comparer() permettant de comparer deux (2) articles. Deux articles sont identiques quand ils ont les mêmes propriétés.
+    . comparer() permettant de comparer deux (2) articles. Deux articles sont identiques quand ils ont les mêmes propriétés
 
 ## Gérer un achat
 
 - Les attributs de la classe Achat sont : le numéro de l’achat, l’article concerné
-par l’achat et la quantité d’articles achetés ;
+par l’achat et la quantité d’articles achetés
 - Ajoutez le constructeur de la classe en initialisant tous les attributs de la classe
-avec des valeurs reçues en paramètres ;
+avec des valeurs reçues en paramètres
 - Implémenter le principe de l’encapsulation pour tous les attributs d’instance de
-la classe ;
+la classe
 - Ajoutez aussi une méthode modifierQuantite() permettant de modifier la
 quantité d’articles achetés après sa création en prenant la nouvelle quantité en
-paramètre.
+paramètre
 
 ## Ensuite, il va falloir gérer les ventes des articles en générant la facture à chaque vente
 
 ### Implémentation de la classe Facture
 
 - Une facture est identifiée par : le numéro de la facture, la date de la facture et
-une collection d’achats ;
+une collection d’achats
 - Ajoutez le constructeur de la classe en initialisant tous les attributs de la classe
-avec des valeurs reçues en paramètres ;
+avec des valeurs reçues en paramètres
 - Implémenter le principe de l’encapsulation pour tous les attributs d’instance de
-la classe ;
+la classe
 - Implémentez les méthodes suivantes :
 
-    * ajouterAchat() : permet d’ajouter un achat à la collection d’achats d’une facture, vérifier la non existence du même achat dans la collection dans le cas contraire la méthode doit afficher un message d’erreur ;
-    * montantTotalFacture() : retourne le montant total de la facture ;
-    * detailsFacture() : affiche le numéro de la facture, la date de la facture,
-la liste des articles achetés, le montant total de la facture sous le format
-suivant :
+    * ajouterAchat() : permet d’ajouter un achat à la collection d’achats d’une facture, vérifier la non existence du même achat dans la collection dans le cas contraire la méthode doit afficher un message d’erreur
+    * montantTotalFacture() : retourne le montant total de la facture
+    * detailsFacture() : affiche le numéro de la facture, la date de la facture, la liste des articles achetés, le montant total de la facture sous le format suivant :
 
-    [image]
+        [description]
 
 ## Simulez ensuite la vente des articles
 
