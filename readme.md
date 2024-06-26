@@ -10,8 +10,8 @@ Pour cela, il faudra :
 - Implémenter le principe de l’encapsulation pour tous les attributs d’instance de la classe
 - Implémentez les méthodes suivantes :
 
-    . afficher() permettant d’afficher toutes les informations d’un article
-    . comparer() permettant de comparer deux (2) articles. Deux articles sont identiques quand ils ont les mêmes propriétés
+    * afficher() permettant d’afficher toutes les informations d’un article
+    * comparer() permettant de comparer deux (2) articles. Deux articles sont identiques quand ils ont les mêmes propriétés
 
 ## Gérer un achat
 
