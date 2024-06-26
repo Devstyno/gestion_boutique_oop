@@ -65,3 +65,8 @@ la classe
 - Ajoutez ensuite les deux achats précédents à la facture
 - Affichez le montant total de la facture
 - Affichez tous les détails de la facture
+
+## Note
+
+_Vous pourrez utiliser la version ipynb du fichier tests pour proceder a une execution par bloc et avoir un meilleur apercu. Pour ce faire, installez l'extension de jupyter notebook dans votre IDE, notamment VSCode. Sinon, installez Anaconda._
+_Pour le fichier main.py, libre a vous de l'ecrire comme vous voulez. Laissez parler votre inspiration !_
