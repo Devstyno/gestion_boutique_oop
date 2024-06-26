@@ -47,8 +47,8 @@ la classe
 
                                         Liste des achats
             
-            Designation     Remise      Prix unitaire (XOF)     Quantite        Prix total
-            ...             ...         ...                     ...             ...
+            Designation      Prix unitaire (XOF)     Quantite        Prix total
+            ...              ...                     ...             ...
 
 
             Montant total : ...
