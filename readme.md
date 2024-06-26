@@ -50,6 +50,7 @@ la classe
             Designation     Remise      Prix unitaire (XOF)     Quantite        Prix total
             ...             ...         ...                     ...             ...
 
+
             Montant total : ...
 
         `
