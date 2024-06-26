@@ -41,7 +41,18 @@ la classe
     * montantTotalFacture() : retourne le montant total de la facture
     * detailsFacture() : affiche le numéro de la facture, la date de la facture, la liste des articles achetés, le montant total de la facture sous le format suivant :
 
-        [description]
+        `
+
+            Numero ...                                                          Date ...
+
+                                        Liste des achats
+            
+            Designation     Remise      Prix unitaire (XOF)     Quantite        Prix total
+            ...             ...         ...                     ...             ...
+
+            Montant total : ...
+
+        `
 
 ## Simulez ensuite la vente des articles
 
