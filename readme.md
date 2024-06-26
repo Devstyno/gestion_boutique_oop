@@ -43,9 +43,9 @@ la classe
 
         `
 
-            Numero ...                                                          Date ...
+            Numero ...                                               Date ...
 
-                                        Liste des achats
+                                    Liste des achats
             
             Designation      Prix unitaire (XOF)     Quantite        Prix total
             ...              ...                     ...             ...
